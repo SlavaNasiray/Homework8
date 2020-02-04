@@ -393,6 +393,7 @@ header .btn {
 	font-weight: 300;
 	color: #989898;
 	margin-top: 40px;
+	width: 100%;
 }
 
 .container6 .flexcontainer a {
@@ -416,7 +417,7 @@ header .btn {
 }
 
 .container6 .flexcontainer .box1, .container5 .flexcontainer .box2, .container5 .flexcontainer .box3 {
-	flex-basis: 30%;
+	flex-basis: 35%;
 }
 
 .container6 .flexcontainer .box3 {
@@ -518,6 +519,7 @@ header .btn {
 .container7 .center .grid .img2 {
 	background-image: url('./img/img9.png');
 	background-repeat: no-repeat;
+	background-size: contain;
 }
 
 .container7 .center .grid .img2 .tag {
@@ -550,6 +552,7 @@ header .btn {
 .container7 .center .grid .img3 {
 	background-image: url('./img/img10.png');
 	background-repeat: no-repeat;
+	background-size: contain;
 }
 
 .container7 .center .grid .img3 .tag1 {
@@ -595,6 +598,7 @@ header .btn {
 .container7 .center .grid .img4 {
 	background-image: url('./img/img11.png');
 	background-repeat: no-repeat;
+	background-size: contain;
 }
 
 .container7 .center .grid .img4 .tag {
@@ -627,6 +631,7 @@ header .btn {
 .container7 .center .grid .img5 {
 	background-image: url('./img/img12.png');
 	background-repeat: no-repeat;
+	background-size: contain;
 }
 
 .container7 .center .grid .img5 .tag {
@@ -668,11 +673,12 @@ header .btn {
 	width: 270px;
 	height: 60px;
 	margin-left: 45%;
-	margin-bottom: 0;
+	margin-bottom: 110px;
+	margin-top: 60px;
 }
 
 .container7 .btndwn {
-	margin-top: 150px;
+	margin-top: 110px;
 }
 
 .container7 .center a:hover {
