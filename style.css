@@ -751,7 +751,7 @@ header .btn {
 }
 
 .container9 .txtstart h2 {
-	margin: 250px 45% 150px;
+	margin: 250px 42% 150px 42%;
 	font-family: 'Ubuntu', sans-serif;
 	font-weight: 300;
 	font-size: 48px;
@@ -771,6 +771,8 @@ header .btn {
 	font-size: 18px;
 	color: #ffffff;
 	margin-top: 70px;
+	margin-left: 10%;
+	margin-right: 20%;
 }
 
 .container9 div .txtdawn p {
